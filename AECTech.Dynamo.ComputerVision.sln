@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AECTech.Dynamo.ComputerVision", "AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.shproj", "{5F1167B9-A6D6-4FE4-8C25-6B7C99701B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AECTech.Dynamo.ComputerVision2.3", "AECTech.Dynamo.ComputerVision2.3\AECTech.Dynamo.ComputerVision2.3.csproj", "{A82C4908-BC1F-4F4F-8D69-2911F5232DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AECTech.Dynamo.ComputerVision2.6", "AECTech.Dynamo.ComputerVision2.6\AECTech.Dynamo.ComputerVision2.6.csproj", "{EFF907AB-7A86-4367-9304-F37316640FBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Revit2020", "Revit2020", "{FB764748-439F-4B77-8AD8-E47F701FF46C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Revit2021", "Revit2021", "{36DF2685-2A79-41DA-8510-A45078B6E8CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Revit2022", "Revit2022", "{47C24E76-F5BB-452B-B6D4-FE9212CC55F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Revit2023", "Revit2023", "{631D1387-C370-458F-9A61-C87E2118005F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Revit2024", "Revit2024", "{0E032AF0-9E17-41F9-A46D-FC0262D177CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AECTech.Dynamo.ComputerVision2.1", "AECTech.Dynamo.ComputerVision2.1\AECTech.Dynamo.ComputerVision2.1.csproj", "{45712AD1-AD80-40D3-90D6-1DFDE728F4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AECTech.Dynamo.ComputerVision2.5", "AECTech.Dynamo.ComputerVision2.5\AECTech.Dynamo.ComputerVision2.5.csproj", "{D33105D4-3883-4D62-A7CF-2F2D8A54CA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AECTech.Dynamo.ComputerVision2.10", "AECTech.Dynamo.ComputerVision2.10\AECTech.Dynamo.ComputerVision2.10.csproj", "{624AE6A6-E41F-46F6-A474-04894B59793F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AECTech.Dynamo.ComputerVision2.12", "AECTech.Dynamo.ComputerVision2.12\AECTech.Dynamo.ComputerVision2.12.csproj", "{515F289A-EE0F-4115-85A7-334F88282E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AECTech.Dynamo.ComputerVision2.13", "AECTech.Dynamo.ComputerVision2.13\AECTech.Dynamo.ComputerVision2.13.csproj", "{4FD55686-9126-423A-A057-610C4FB03B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AECTech.Dynamo.ComputerVision2.16", "AECTech.Dynamo.ComputerVision2.16\AECTech.Dynamo.ComputerVision2.16.csproj", "{1CEE40D0-72F6-4272-B9F3-B15755594D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AECTech.Dynamo.ComputerVision2.17", "AECTech.Dynamo.ComputerVision2.17\AECTech.Dynamo.ComputerVision2.17.csproj", "{F7302344-9BBB-4A36-AF20-8DF1A2B6B70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82C4908-BC1F-4F4F-8D69-2911F5232DE2}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A82C4908-BC1F-4F4F-8D69-2911F5232DE2}.Debug|Any CPU.Build.0 = Debug|x64
+		{A82C4908-BC1F-4F4F-8D69-2911F5232DE2}.Release|Any CPU.ActiveCfg = Release|x64
+		{EFF907AB-7A86-4367-9304-F37316640FBB}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{EFF907AB-7A86-4367-9304-F37316640FBB}.Debug|Any CPU.Build.0 = Debug|x64
+		{EFF907AB-7A86-4367-9304-F37316640FBB}.Release|Any CPU.ActiveCfg = Release|x64
+		{45712AD1-AD80-40D3-90D6-1DFDE728F4E7}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{45712AD1-AD80-40D3-90D6-1DFDE728F4E7}.Debug|Any CPU.Build.0 = Debug|x64
+		{45712AD1-AD80-40D3-90D6-1DFDE728F4E7}.Release|Any CPU.ActiveCfg = Release|x64
+		{D33105D4-3883-4D62-A7CF-2F2D8A54CA24}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{D33105D4-3883-4D62-A7CF-2F2D8A54CA24}.Debug|Any CPU.Build.0 = Debug|x64
+		{D33105D4-3883-4D62-A7CF-2F2D8A54CA24}.Release|Any CPU.ActiveCfg = Release|x64
+		{624AE6A6-E41F-46F6-A474-04894B59793F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{624AE6A6-E41F-46F6-A474-04894B59793F}.Debug|Any CPU.Build.0 = Debug|x64
+		{624AE6A6-E41F-46F6-A474-04894B59793F}.Release|Any CPU.ActiveCfg = Release|x64
+		{515F289A-EE0F-4115-85A7-334F88282E7A}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{515F289A-EE0F-4115-85A7-334F88282E7A}.Debug|Any CPU.Build.0 = Debug|x64
+		{515F289A-EE0F-4115-85A7-334F88282E7A}.Release|Any CPU.ActiveCfg = Release|x64
+		{4FD55686-9126-423A-A057-610C4FB03B2B}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{4FD55686-9126-423A-A057-610C4FB03B2B}.Debug|Any CPU.Build.0 = Debug|x64
+		{4FD55686-9126-423A-A057-610C4FB03B2B}.Release|Any CPU.ActiveCfg = Release|x64
+		{1CEE40D0-72F6-4272-B9F3-B15755594D4F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{1CEE40D0-72F6-4272-B9F3-B15755594D4F}.Debug|Any CPU.Build.0 = Debug|x64
+		{1CEE40D0-72F6-4272-B9F3-B15755594D4F}.Release|Any CPU.ActiveCfg = Release|x64
+		{F7302344-9BBB-4A36-AF20-8DF1A2B6B70D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{F7302344-9BBB-4A36-AF20-8DF1A2B6B70D}.Debug|Any CPU.Build.0 = Debug|x64
+		{F7302344-9BBB-4A36-AF20-8DF1A2B6B70D}.Release|Any CPU.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A82C4908-BC1F-4F4F-8D69-2911F5232DE2} = {FB764748-439F-4B77-8AD8-E47F701FF46C}
+		{EFF907AB-7A86-4367-9304-F37316640FBB} = {36DF2685-2A79-41DA-8510-A45078B6E8CE}
+		{45712AD1-AD80-40D3-90D6-1DFDE728F4E7} = {FB764748-439F-4B77-8AD8-E47F701FF46C}
+		{D33105D4-3883-4D62-A7CF-2F2D8A54CA24} = {36DF2685-2A79-41DA-8510-A45078B6E8CE}
+		{624AE6A6-E41F-46F6-A474-04894B59793F} = {47C24E76-F5BB-452B-B6D4-FE9212CC55F2}
+		{515F289A-EE0F-4115-85A7-334F88282E7A} = {47C24E76-F5BB-452B-B6D4-FE9212CC55F2}
+		{4FD55686-9126-423A-A057-610C4FB03B2B} = {631D1387-C370-458F-9A61-C87E2118005F}
+		{1CEE40D0-72F6-4272-B9F3-B15755594D4F} = {631D1387-C370-458F-9A61-C87E2118005F}
+		{F7302344-9BBB-4A36-AF20-8DF1A2B6B70D} = {0E032AF0-9E17-41F9-A46D-FC0262D177CC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA546D98-1651-41AB-B0A6-FD668A5F779A}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{1cee40d0-72f6-4272-b9f3-b15755594d4f}*SharedItemsImports = 4
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{45712ad1-ad80-40d3-90d6-1dfde728f4e7}*SharedItemsImports = 4
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{4fd55686-9126-423a-a057-610c4fb03b2b}*SharedItemsImports = 4
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{515f289a-ee0f-4115-85a7-334f88282e7a}*SharedItemsImports = 4
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{5f1167b9-a6d6-4fe4-8c25-6b7c99701b65}*SharedItemsImports = 13
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{624ae6a6-e41f-46f6-a474-04894b59793f}*SharedItemsImports = 4
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{a82c4908-bc1f-4f4f-8d69-2911f5232de2}*SharedItemsImports = 4
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{d33105d4-3883-4d62-a7cf-2f2d8a54ca24}*SharedItemsImports = 4
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{eff907ab-7a86-4367-9304-f37316640fbb}*SharedItemsImports = 4
+		AECTech.Dynamo.ComputerVision\AECTech.Dynamo.ComputerVision.projitems*{f7302344-9bbb-4a36-af20-8df1a2b6b70d}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

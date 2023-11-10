@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+	<assembly>
+		<name>AECTech.Dynamo.ComputerVision</name>
+	</assembly>
+	<namespaces>
+		<namespace name="AECTech.Dynamo.ComputerVision">
+			<category>AECTech</category>
+		</namespace>
+	</namespaces>
+	<classes>
+		<!--Remap Class Names-->
+		<!--<class name="WSP.About.TermsOfUse" shortname="TermsOfUse"/>-->
+		<!--<class name="WSP.Revit.Filter.Filter" shortname="WSP.Revit.Filter"/>-->
+		<!--<class name="WSP.General" shortname="WSP"/>-->
+		<!--<class name="WSP.General" shortname="WSP"/>-->
+	</classes>
+</doc>
